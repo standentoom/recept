@@ -1,0 +1,22 @@
+body{
+	background-color: lightblue;
+}
+h1 {
+	font-family: arial black;
+	text-align: center;
+}
+div{
+	width: 1000;
+	margin: 0 auto;
+	background-image: url(brood2.jpg);
+	background-repeat: repeat-y;
+	background-size: 100%;
+
+}
+p{
+	font-family: arial;
+}
+img.center{
+	margin-left: 550px;
+}
+
